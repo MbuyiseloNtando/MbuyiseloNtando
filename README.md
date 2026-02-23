@@ -22,9 +22,11 @@ Airspace modelling and simulation trainee | Aspiring Data Scientist
 I'
 
 Professional Highlights 🌟 
+
 Airspace Modelling Trainee, ATNS (2026 - present)
 
 
 Education 🎓 
+
 Bachelor of Science Honours in Applied Mathematics
 Bachelor of Science in Applied Mathematics and Statistics
