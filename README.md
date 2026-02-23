@@ -26,6 +26,7 @@ Professional Highlights 🌟
 Airspace Modelling Trainee, ATNS (2026 - present)
 
 
+
 Education 🎓 
 
 Bachelor of Science Honours in Applied Mathematics
