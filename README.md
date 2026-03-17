@@ -19,7 +19,7 @@ Airspace modelling and simulation trainee | Aspiring Data Scientist
 
 📍 South Africa 📧 Email: mbuyiselontando@outlook.com 🔗 LinkedIn: https://www.linkedin.com/in/mbuyiselo-xaba-59408a2bb/
 
-I'
+
 
 Professional Highlights 🌟 
 
