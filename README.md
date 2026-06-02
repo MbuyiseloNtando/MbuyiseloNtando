@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Airspace modelling and simulation trainee | Junior Data Analyst
-
 📍 South Africa, Johannesburg 📧 Email: mbuyiselontando@outlook.com 🔗 LinkedIn: https://www.linkedin.com/in/mbuyiselo-xaba-59408a2bb/
 
 Junior Data Analyst with 2+ years of experience in data extraction, cleaning, analysis, visualisation and dashboard development. Skilled in Excel, Power BI, Python and SQL with ability to transform complex datasets into actionable insights. Strong analytical abilities with experience to communicate analytical insights and technical concepts effectively to cross-functional stakeholders.
@@ -36,7 +35,6 @@ Airspace Modelling Trainee, ATNS (2026 - present)
 Education 🎓 
 
 Bachelor of Science Honours in Applied Mathematics
-
 Bachelor of Science in Applied Mathematics and Statistics
 
 Tools 
