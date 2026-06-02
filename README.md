@@ -38,3 +38,10 @@ Education 🎓
 Bachelor of Science Honours in Applied Mathematics
 
 Bachelor of Science in Applied Mathematics and Statistics
+
+Tools 
+* Excel
+* Power BI
+* Python
+* SQL
+* Transoft Airtop
