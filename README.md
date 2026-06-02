@@ -26,7 +26,11 @@ Junior Data Analyst with 2+ years of experience in data extraction, cleaning, an
 Professional Highlights 🌟 
 
 Airspace Modelling Trainee, ATNS (2026 - present)
-
+* Created optimised ETL pipelines
+* Created Power BI models
+* Created compelling interactive Power BI dashboards
+* Created Airspace models to simulate historical operations
+* Created time series and machine learning forecasting models
 
 
 Education 🎓 
